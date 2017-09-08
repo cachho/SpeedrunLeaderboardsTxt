@@ -1,1 +1,1 @@
-MOTD: Some gamemodes are only available in one difficulty!
+Some gamemodes are only available in one difficulty!
